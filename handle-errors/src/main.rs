@@ -4,7 +4,7 @@ use std::process;
 / ERROR HANDLING METHODS
 / unwrap() -> but do not use it in production.
 / expect("This is not a valid number");
-/ match -> handle success and fail.
+/ match -> handle success and fail cases.
 */
 
 fn main() {
